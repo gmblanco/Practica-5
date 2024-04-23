@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.comillas.icai.gitt.pat.spring.p5.repository.RepositoryIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.593 s -- in edu.comillas.icai.gitt.pat.spring.p5.repository.RepositoryIntegrationTest

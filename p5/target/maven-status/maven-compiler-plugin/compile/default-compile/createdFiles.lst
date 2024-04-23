@@ -1,0 +1,14 @@
+edu\comillas\icai\gitt\pat\spring\p5\model\ProfileRequest.class
+edu\comillas\icai\gitt\pat\spring\p5\service\UserServiceInterface.class
+edu\comillas\icai\gitt\pat\spring\p5\controller\UserController.class
+edu\comillas\icai\gitt\pat\spring\p5\model\Role.class
+edu\comillas\icai\gitt\pat\spring\p5\service\UserService.class
+edu\comillas\icai\gitt\pat\spring\p5\model\RegisterRequest.class
+edu\comillas\icai\gitt\pat\spring\p5\repository\AppUserRepository.class
+edu\comillas\icai\gitt\pat\spring\p5\repository\TokenRepository.class
+edu\comillas\icai\gitt\pat\spring\p5\model\LoginRequest.class
+edu\comillas\icai\gitt\pat\spring\p5\entity\AppUser.class
+edu\comillas\icai\gitt\pat\spring\p5\entity\Token.class
+edu\comillas\icai\gitt\pat\spring\p5\model\ProfileResponse.class
+edu\comillas\icai\gitt\pat\spring\p5\P5Application.class
+edu\comillas\icai\gitt\pat\spring\p5\util\Hashing.class

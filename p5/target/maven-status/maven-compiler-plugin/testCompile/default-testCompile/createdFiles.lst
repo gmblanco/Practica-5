@@ -1,0 +1,4 @@
+edu\comillas\icai\gitt\pat\spring\p5\repository\RepositoryIntegrationTest.class
+edu\comillas\icai\gitt\pat\spring\p5\controller\UserControllerIntegrationTest.class
+edu\comillas\icai\gitt\pat\spring\p5\model\RegisterRequestUnitTest.class
+edu\comillas\icai\gitt\pat\spring\p5\P5ApplicationE2ETest.class

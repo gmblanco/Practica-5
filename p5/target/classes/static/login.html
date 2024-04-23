@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Login</title>
+  <script src="login.js"></script>
+  <link rel="stylesheet" type="text/css" href="login.css" />
+</head>
+<body onload="inicializar()">
+  <form onsubmit="entrar(form2json(event))">
+    <fieldset>
+      <legend>🔐</legend>
+      <label for="email">Correo electrónico:</label>
+      <input type="email" name="email" id="email" required>
+      <label for="password">Contraseña:</label>
+      <input type="password" name="password" id="password" required>
+      <p id="aviso"></p>
+      <hr>
+      <input type="submit" value="Entrar">
+      <a href="registro.html">Registrarse</a>
+    </fieldset>
+  </form>
+</body>
+</html>

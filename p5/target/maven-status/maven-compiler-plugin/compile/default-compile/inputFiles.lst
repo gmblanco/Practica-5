@@ -1,0 +1,14 @@
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\service\UserServiceInterface.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\controller\UserController.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\entity\Token.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\model\LoginRequest.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\model\RegisterRequest.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\util\Hashing.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\entity\AppUser.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\model\ProfileRequest.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\P5Application.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\model\ProfileResponse.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\repository\AppUserRepository.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\repository\TokenRepository.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\model\Role.java
+C:\Users\mbgaz\PAT\p5\src\main\java\edu\comillas\icai\gitt\pat\spring\p5\service\UserService.java

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>App</title>
+  <script src="app.js"></script>
+  <link rel="stylesheet" type="text/css" href="app.css" />
+</head>
+<body onload="inicializar()">
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a onclick="salir()">Salir</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <article id="inicio">
+      <section>
+        Bienvenido,
+        <span id="nombre-inicio"></span>
+      </section>
+      <section>
+        <table>
+          <tr><td>Rol</td><td id="tel-inicio"></td></tr>
+          <tr><td>Correo-e</td><td id="email-inicio"></td></tr>
+        </table>
+      </section>
+      <section>
+        <button type="button" onclick="baja()">Darse de baja</button>
+      </section>
+    </article>
+  </main>
+  <footer>
+    Práctica 5 © PAT
+    <script>document.write(new Date().getFullYear());</script>
+  </footer>
+</body>
+</html>

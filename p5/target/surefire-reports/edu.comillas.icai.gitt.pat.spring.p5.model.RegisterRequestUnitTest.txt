@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.comillas.icai.gitt.pat.spring.p5.model.RegisterRequestUnitTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.017 s -- in edu.comillas.icai.gitt.pat.spring.p5.model.RegisterRequestUnitTest

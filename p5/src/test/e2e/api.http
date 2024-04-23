@@ -1,0 +1,47 @@
+### TODO#12
+### Completa los ... de las siguientes peticiones por orden,
+### para probar el API con el plugin REST CLIENT de VsCode
+
+### Registrar usuario
+POST http://localhost:8080/api/users HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "jaime",
+    "email":"jaime@gmail.com",
+    "role":"USER",
+    "password" : "Taza1234"
+
+}
+### Login usuario
+POST http://localhost:8080/api/users/me/session HTTP/1.1
+Content-Type: application/json
+
+{
+    "email":"jaime@gmail.com",
+    "password" : "Taza1234"
+
+}
+### Borrar token asociado a usuario
+DELETE http://localhost:8080/api/users/me/session
+Cookie: session = f25af6ec-7939-4701-9bae-fee774deade3
+
+### Obtener info de usuario
+GET http://localhost:8080/api/users/me
+Cookie: session = ff8b0245-b4f6-4e36-b851-54c8537b93a4
+
+### Actualizar perfil usuario
+PUT http://localhost:8080/api/users/me
+Content-Type: application/json
+Cookie: session = ff8b0245-b4f6-4e36-b851-54c8537b93a4
+
+{
+    "name":"marco",
+    "role":"ADMIN",
+    "password" : "Caramelo12"
+}
+
+### Dar de baja a usuario
+DELETE http://localhost:8080/api/users/me
+Cookie: session = ff8b0245-b4f6-4e36-b851-54c8537b93a4
+
